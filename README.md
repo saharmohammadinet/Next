@@ -1,4 +1,4 @@
-# Next
+# Next.js
 In this project, which allows users to view meals, share meals, and be part of a foodies community.
 
 And the special thing about this project is that it's actually a fullstack application, so front-end and backend combined into one project.
